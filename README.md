@@ -3,11 +3,11 @@ Implementation of all basic algorithms needed in  Deep Learning
 
 1) ## Logistic_regression_using_NN.ipynb
 
-    * It is a simple logistic regression algorithm developed using CNN with zero hidden layers
+    * It is a simple logistic regression algorithm developed using NN (Neural Networks) with zero hidden layers
     * In this notebook, binary classification is done on the dataset of cats(cat or not cat) 
     
 2) ## NN_with_1_hidden_layer.py
-    * It's a python script file which contains all functions required to develop CNN with one hidden layer
+    * It's a python script file which contains all functions required to develop NN (Neural Networks) with one hidden layer
     * function designed are:
         * sigmoid(z)
         * initialize(n_x,n_h1,n_y)
@@ -20,7 +20,7 @@ Implementation of all basic algorithms needed in  Deep Learning
         * plot_cost(costs)
         
 3) ## deep_NN_with_L_layers.py
-    * It's a python script file which contains all functions required to develop CNN with 'n' hidden layer
+    * It's a python script file which contains all functions required to develop NN (Neural networks) with 'n' hidden layer
     * It's the generalized algorithm for CNN
     * Functions designed are:
         * sigmoid(Z)
